@@ -1,0 +1,11 @@
+console.log ('HEllo world');
+var firstname ="sundaram yadav";
+let lastname =5;
+console.log(firstname);
+console.log(lastname);
+const fullname="sundaram yadav";
+let arr=[1,2,3];
+console.log(arr[0]);
+let myobj ={'a':5,'b':6};
+console.log(myobj['a']);
+console.log(arr);
